@@ -1,1 +1,3 @@
-###Tongits - A Card Game :-)
+Tongits - A Card Game :-)
+
+Just having fun!
